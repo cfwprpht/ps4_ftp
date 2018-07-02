@@ -63,10 +63,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="ps4_ftp.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ps4_ftp.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\common\source\sampleutil\libSceSampleUtil.vcxproj">
